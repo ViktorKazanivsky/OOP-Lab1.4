@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5EA1B9-1E9E-4A4A-81AE-0147F8615201}|UnitTest\\UnitTest.vcxproj|C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA5EA1B9-1E9E-4A4A-81AE-0147F8615201}|UnitTest\\UnitTest.vcxproj|solutionrelative:UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8334E53-494D-4AA4-8E1F-0B4BF6B6B7C6}|OOP Lab1.4\\OOP Lab1.4.vcxproj|C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\OOP Lab1.4\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8334E53-494D-4AA4-8E1F-0B4BF6B6B7C6}|OOP Lab1.4\\OOP Lab1.4.vcxproj|solutionrelative:OOP Lab1.4\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8334E53-494D-4AA4-8E1F-0B4BF6B6B7C6}|OOP Lab1.4\\OOP Lab1.4.vcxproj|C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\OOP Lab1.4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8334E53-494D-4AA4-8E1F-0B4BF6B6B7C6}|OOP Lab1.4\\OOP Lab1.4.vcxproj|solutionrelative:OOP Lab1.4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8334E53-494D-4AA4-8E1F-0B4BF6B6B7C6}|OOP Lab1.4\\OOP Lab1.4.vcxproj|C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\OOP Lab1.4\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8334E53-494D-4AA4-8E1F-0B4BF6B6B7C6}|OOP Lab1.4\\OOP Lab1.4.vcxproj|solutionrelative:OOP Lab1.4\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 323,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest.cpp",
+              "DocumentMoniker": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\UnitTest\\UnitTest.cpp",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.cpp",
+              "ToolTip": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\UnitTest\\UnitTest.cpp",
+              "RelativeToolTip": "UnitTest\\UnitTest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T18:51:00.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Polynomial.cpp",
+              "DocumentMoniker": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\OOP Lab1.4\\Polynomial.cpp",
+              "RelativeDocumentMoniker": "OOP Lab1.4\\Polynomial.cpp",
+              "ToolTip": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\OOP Lab1.4\\Polynomial.cpp",
+              "RelativeToolTip": "OOP Lab1.4\\Polynomial.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T17:10:51.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Polynomial.h",
+              "DocumentMoniker": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\OOP Lab1.4\\Polynomial.h",
+              "RelativeDocumentMoniker": "OOP Lab1.4\\Polynomial.h",
+              "ToolTip": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\OOP Lab1.4\\Polynomial.h",
+              "RelativeToolTip": "OOP Lab1.4\\Polynomial.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-04T17:10:24.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\OOP Lab1.4\\Source.cpp",
+              "RelativeDocumentMoniker": "OOP Lab1.4\\Source.cpp",
+              "ToolTip": "C:\\Users\\Kazanivsky\\source\\repos\\OOP Lab1.4\\OOP Lab1.4\\Source.cpp",
+              "RelativeToolTip": "OOP Lab1.4\\Source.cpp",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwHAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T17:10:15.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 77,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
